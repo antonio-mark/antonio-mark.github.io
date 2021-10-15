@@ -23,6 +23,7 @@ body {
 .bio h2 {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 5px;
+    text-align: center;
 }
 
 .bio p, .project p { margin-bottom: 5px; }
